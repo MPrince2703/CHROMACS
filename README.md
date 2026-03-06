@@ -21,7 +21,9 @@
 
 ## About
 
-ChromAcS (***Chrom***atin ***Ac***cessibility Analysis ***S***uite) provides a streamlined, GUI-based workflow for analyzing ATAC-seq data. Shown below are the major analysis steps which have been incorporated with several related dependencies in a hierarchical and modular manner designed for the best user experience and easy navigation:
+ChromAcS (***Chrom***atin ***Ac***cessibility Analysis ***S***uite) provides a streamlined, GUI-based workflow for analyzing ATAC-seq data. This tool has been peer-reviewed and published in [BMC Bioinformatics](https://doi.org/10.1186/s12859-026-06382-7)
+
+Shown below are the major analysis steps which have been incorporated with several related dependencies in a hierarchical and modular manner designed for the best user experience and easy navigation:
 
 <p align="center">
   <img src="chromacs/assets/pipeline.png" alt="ChromAcS Pipeline" width="900"/>
@@ -56,7 +58,7 @@ Before installing ChromAcS, ensure you have the following:
 
 - **For Windows users:** [Windows Subsystem for Linux (Ubuntu)](https://learn.microsoft.com/en-us/windows/wsl/install)
   
-- **For Linux users:** ChromAcS Tested on [Ubuntu](https://ubuntu.com/download) and [Fedora](https://getfedora.org/); Other Linux/Mac users may need to install dependent tools from the source. For Mac users, an automated installer will be released soon
+- **For Linux users:** ChromAcS Tested on [Ubuntu](https://ubuntu.com/download) and [Fedora](https://getfedora.org/)
   
 - **Git (optional):** [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   
@@ -198,6 +200,9 @@ The following public FASTQ datasets are used for demonstration and testing of th
 
 *These datasets are publicly available from the European Nucleotide Archive (ENA) and correspond to ATAC-seq baseline, test, and control samples. There are three replicates in the baseline and test samples. For an elaborate metadata, please view the test_data_links folder.*
 
+## Citation
+
+Muhaiminur Hossain, Anik Mojumder, S M Mahbubur Rashid, and Abul Bashar Mir Md. Khademul Islam. “ChromAcS: An Automated and Flexible GUI for End-to-End Reproducible ATAC-Seq Analysis across Multiple Species.” BMC Bioinformatics, ahead of print, February 4, 2026. https://doi.org/10.1186/s12859-026-06382-7.
 
 ## Contact
 
@@ -205,6 +210,7 @@ For any queries and support, please reach us at **epigen.bioinfolab@gmail.com**
 Visit our lab page: [www.epigen-bioinfolab.com](https://www.epigen-bioinfolab.com/)
 
 ## Stay Updated 
+
 We occasionally release updates to ChromAcS dependencies and features. 
 👉 [Subscribe Free for ChromAcS Updates](https://epigen-bioinfolab.github.io/CHROMACS/) 
 
