@@ -21,7 +21,7 @@
 
 ## About
 
-ChromAcS (***Chrom***atin ***Ac***cessibility Analysis ***S***uite) provides a streamlined, GUI-based workflow for analyzing ATAC-seq data. This tool has been peer-reviewed and published in [BMC Bioinformatics](https://doi.org/10.1186/s12859-026-06382-7)
+ChromAcS (***Chrom***atin ***Ac***cessibility Analysis ***S***uite) provides a streamlined, GUI-based workflow for analyzing ATAC-seq data. This tool has been peer-reviewed and published in [BMC Bioinformatics](https://doi.org/10.1186/s12859-026-06382-7).
 
 Shown below are the major analysis steps which have been incorporated with several related dependencies in a hierarchical and modular manner designed for the best user experience and easy navigation:
 
